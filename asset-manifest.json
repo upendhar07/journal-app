@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/journal-app/static/js/main.999c837d.js",
+    "index.html": "/journal-app/index.html",
+    "main.999c837d.js.map": "/journal-app/static/js/main.999c837d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.999c837d.js"
+  ]
+}
